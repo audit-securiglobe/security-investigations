@@ -1,11 +1,9 @@
 # security-investigations
 Technical investigations into web security, phishing, and attack surfaces.
 
-# Security Investigations
 
 This repository contains independent cybersecurity investigations covering web security, phishing, browser threats, third-party script analysis, and attack surface research.
 
-# Security Investigations
 
 A collection of independent cybersecurity research, technical analyses, and real-world investigations into web security, browser ecosystems, phishing, third-party dependencies, and emerging attack techniques.
 
